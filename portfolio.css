@@ -1,0 +1,50 @@
+h1 {
+  color: cornflowerblue;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8%;
+  padding-top: 40px;
+}
+
+body {
+  font-family: cursive;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding-right: 75px;
+  padding-top: 40px;
+}
+
+li {
+  list-style: none;
+}
+button {
+  background-color: coral !important;
+  border-color: coral;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.home {
+  color: coral;
+}
+.links i {
+  font-size: xx-large;
+}
+.red {
+  color: red;
+}
+.green {
+  color: cornflowerblue;
+}
+.black {
+  color: black;
+}
