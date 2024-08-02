@@ -1,0 +1,12 @@
+.input-group {
+  width: 25%;
+}
+
+h1,
+.container {
+  margin: 20px;
+}
+
+h1 {
+  color: darkorange;
+}
