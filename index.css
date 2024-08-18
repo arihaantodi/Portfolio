@@ -17,8 +17,6 @@ ul {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
-  padding-right: 75px;
-  padding-top: 40px;
 }
 
 li {
