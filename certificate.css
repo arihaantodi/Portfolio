@@ -2,3 +2,8 @@ iframe {
   height: 450px;
   width: 80%;
 }
+
+ul {
+  display: flex;
+  gap: 20px;
+}
